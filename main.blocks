@@ -1,4 +1,1 @@
-<xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="pxt-on-start"></block>
-  <block type="device_forever"></block>
-</xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="[=sbny/#IYS!zEGR2AxJ" x="20" y="20"><statement name="HANDLER"><block type="device_print_message" id="@[K%iPqyG9p^%a:Z9+u1"><value name="text"><shadow type="text" id="gs%f7B9$`oLt,Zm?J{T^"><field name="TEXT">123</field></shadow></value></block></statement></block><block type="device_forever" id=",3(+,tPlguuFNT{i1El4" x="225" y="20"></block></xml>
